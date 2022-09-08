@@ -4,24 +4,22 @@
 
 /**
  *
- *  * main - program start and ends in this function
+ * main - program start and ends in this function
  *
- *   * takes no arguments
+ * takes no arguments
  *
- *    *
+ *   
+ * Description: contains a puts() function to print string to stdout
  *
- *     * Description: contains a puts() function to print string to standard output
- *
- *      * Return: function returns 0
+ * Return: function returns 0
  *
  *       */
 
 int main(void)
-
 {
 
-		puts("\"Programming is like building a multilingual puzzle");
+	puts("\"Programming is like building a multilingual puzzle");
 
-		return (0);
+	return (0);
 
 }
